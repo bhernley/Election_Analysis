@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has assigned the following tasks to compl
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.10.9code, Visual Studio Code 1.74.2
+- Software: Python 3.10.9, Visual Studio Code 1.74.2
 
 ## Summary
 The analysis of the election show that:
